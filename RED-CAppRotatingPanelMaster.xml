@@ -1,35 +1,42 @@
 <rotator>
   
-<panel>
+ <panel>
 <number>1</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/revivingamerica.png?raw=true</image>
+<url>https://revivingamericasummit.com</url>
+<redirect>n</redirect>
+</panel> 
+  
+<panel>
+<number>2</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppFamilyRetreat.png?raw=true</image>
 <url>https://redcradio.org/familyretreat2024</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>2</number>
+<number>3</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
 <url>https://www.victoryyouthsports.org</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>3</number>
+<number>4</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppPodcasts.png?raw=true</image>
 <url>https://redcradio.org/podcast</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>4</number>
+<number>5</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/Donate.png?raw=true</image>
 <url>https://redcradio.org/donate</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>5</number>
+<number>6</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/PrayWithUs.png?raw=true</image>
 <url>https://redcradio.org/about-moses-prayer-ministry</url>
 <redirect>n</redirect>
