@@ -1,49 +1,63 @@
 <rotator>
   
- <panel>
+<panel>
 <number>1</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/Survey.png?raw=true</image>
+<url>https://docs.google.com/forms/d/e/1FAIpQLSd23W_kCLYULiUxNtMY3MWKrsz_4gE3jGgMaU9eVpJfMtVkIg/viewform?pli=1</url>
+<redirect>n</redirect>
+</panel> 
+
+<panel>
+<number>2</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/Hiring.png?raw=true</image>
+<url>https://redcradio.org/employment-opportunities</url>
+<redirect>n</redirect>
+</panel>
+  
+ <panel>
+<number>3</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/redc_website.png?raw=true</image>
 <url>https://www.redcradio.org</url>
 <redirect>n</redirect>
 </panel> 
 
 <panel>
-<number>2</number>
+<number>4</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/social_media_page.png?raw=true</image>
 <url>https://www.instagram.com/redcradio</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>3</number>
+<number>5</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/TheDeaconsCorner.png?raw=true</image>
 <url>https://www.redcradio.org/deacons-corner</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>4</number>
+<number>6</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
 <url>https://www.victoryyouthsports.org</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>5</number>
+<number>7</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppPodcasts.png?raw=true</image>
 <url>https://redcradio.org/podcast</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>6</number>
+<number>8</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/Donate.png?raw=true</image>
 <url>https://redcradio.org/donate</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>7</number>
+<number>9</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/PrayWithUs.png?raw=true</image>
 <url>https://redcradio.org/about-moses-prayer-ministry</url>
 <redirect>n</redirect>
