@@ -1,13 +1,6 @@
 <rotator>
 
 <panel>
-<number>1</number>
-<image>https://github.com/redcradio/AppSlider/blob/main/Hiring.png?raw=true</image>
-<url>https://redcradio.org/employment-opportunities</url>
-<redirect>n</redirect>
-</panel>
-  
- <panel>
 <number>2</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/redc_website.png?raw=true</image>
 <url>https://www.redcradio.org</url>
