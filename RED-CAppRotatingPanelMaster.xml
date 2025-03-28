@@ -8,6 +8,13 @@
 </panel> 
 
 <panel>
+<number>4</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
+<url>https://www.victoryyouthsports.org</url>
+<redirect>n</redirect>
+</panel>
+  
+<panel>
 <number>2</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/social_media_page.png?raw=true</image>
 <url>https://www.instagram.com/redcradio</url>
@@ -18,13 +25,6 @@
 <number>3</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/TheDeaconsCorner.png?raw=true</image>
 <url>https://www.redcradio.org/deacons-corner</url>
-<redirect>n</redirect>
-</panel>
-  
-<panel>
-<number>4</number>
-<image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
-<url>https://www.victoryyouthsports.org</url>
 <redirect>n</redirect>
 </panel>
   
