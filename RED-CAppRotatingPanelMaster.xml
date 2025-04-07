@@ -2,28 +2,28 @@
 
 <panel>
 <number>1</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/triduum_resources.png?raw=true</image>
+<url>https://www.redcradio.org/triduum-resources</url>
+<redirect>n</redirect>
+</panel>
+  
+<panel>
+<number>2</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/choose_stream.png?raw=true</image>
 <redirect>n</redirect>
 </panel> 
   
 <panel>
-<number>2</number>
+<number>3</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/redc_website.png?raw=true</image>
 <url>https://www.redcradio.org</url>
 <redirect>n</redirect>
 </panel> 
 
 <panel>
-<number>3</number>
+<number>4</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
 <url>https://www.victoryyouthsports.org</url>
-<redirect>n</redirect>
-</panel>
-  
-<panel>
-<number>4</number>
-<image>https://github.com/redcradio/AppSlider/blob/main/social_media_page.png?raw=true</image>
-<url>https://www.instagram.com/redcradio</url>
 <redirect>n</redirect>
 </panel>
   
