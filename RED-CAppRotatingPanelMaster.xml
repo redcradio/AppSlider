@@ -2,29 +2,37 @@
 
 <panel>
 <number>1</number>
-<image>https://github.com/redcradio/AppSlider/blob/main/choose_stream.png?raw=true</image>
+<image>https://github.com/redcradio/AppSlider/blob/main/family_banquet.png?raw=true</image>
+<url>https://redcradio.org/familybanquet</url>
 <redirect>n</redirect>
 </panel> 
 
 <panel>
 <number>2</number>
+<image>https://github.com/redcradio/AppSlider/blob/main/choose_stream3.png?raw=true</image>
+<redirect>n</redirect>
+</panel> 
+
+<panel>
+<number>3</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/AppVictorySports.png?raw=true</image>
 <url>https://www.victoryyouthsports.org</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>3</number>
+<number>4</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/TheDeaconsCorner.png?raw=true</image>
 <url>https://www.redcradio.org/deacons-corner</url>
 <redirect>n</redirect>
 </panel>
   
 <panel>
-<number>4</number>
+<number>5</number>
 <image>https://github.com/redcradio/AppSlider/blob/main/PrayWithUs.png?raw=true</image>
 <url>https://redcradio.org/about-moses-prayer-ministry</url>
 <redirect>n</redirect>
 </panel>
   
 </rotator>
+
